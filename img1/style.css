@@ -1,0 +1,47 @@
+.header{
+    border: 1px solid black;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: center;
+    color: blue;
+    height: 70px;
+    box-sizing: border-box;
+}
+.nav{
+    border: 1px solid black;
+    margin: 10px;
+    color: chartreuse;
+    text-align: center;
+    height: 70px;
+    box-sizing: border-box;
+}
+.container{
+    display: flex;
+}
+.con1{
+    border: 1px solid black;
+    text-align: center;
+    width: 25%;
+    margin: 10px;
+    color: violet;
+    height: 341px;
+    box-sizing: border-box;
+}
+.main{
+    border: 1px solid black;
+    text-align: center;
+    margin: 10px;
+    width: 50%;
+    color: tomato;
+    height: 341px;
+    box-sizing: border-box;
+}
+.foter{
+    border: 1px solid black;
+    text-align: center;
+    margin: 10px;
+    /* margin-right: 10px;
+    margin-left: 10px; */
+    color: aqua;
+    height: 70px;
+}

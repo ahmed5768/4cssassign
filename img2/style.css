@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(241, 241, 40);
+}
+.head{
+    border: 3px solid black;
+    background-color: green;
+    height: 75px;
+    text-align: center;
+}
+.menu{
+    padding-bottom: 10px;
+    margin-top: 10px;
+    border: 3px solid black;
+    background-color: lightskyblue;
+    height: 45px;
+    text-align: center;
+}
+.main{
+    display: flex;
+}
+.con{
+    border: 3px solid black;
+    margin-top: 10px;
+    text-align: center;
+    background-color: blue;
+    height: 341px;
+    width: 35%;
+}
+.con2{
+    border: 3px solid black;
+    float: right;
+    background-color: palevioletred;
+    text-align: center;
+    height: 341px;
+    width: 65%;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.fot{
+    margin-top: 10px;
+    border: 3px solid black;
+    background-color: orangered;
+    text-align: center;
+    height: 75px;
+}

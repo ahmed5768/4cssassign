@@ -1,0 +1,39 @@
+body{
+    background-image: url(./background_1_zM58lsj.wide.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+@font-face {
+    font-family: "font2";
+    src: url(./Kalam-Bold.ttf);
+}
+.top{
+    font-size: 45px;
+    font-family: font2;
+    color: antiquewhite;
+    margin-top: 50px;
+    text-align: right;
+    padding-right: 200px;
+}
+.container{
+    margin-top: 120px;
+    text-align: center;
+}
+@font-face {
+    font-family: "myfont";
+    src: url(./DancingScript-VariableFont_wght.ttf);
+}
+a{
+    font-size: 40px;
+    font-family: myfont;
+    text-decoration: none;
+    color: white;
+}
+a:hover{
+    font-size: 45px;
+    color: gray;
+}
+.name{
+    font-size: 20px;
+    color: white;
+}
