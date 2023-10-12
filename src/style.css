@@ -28,10 +28,14 @@ a{
     font-family: myfont;
     text-decoration: none;
     color: white;
+    transition: all  0.5s ;
+
+
 }
 a:hover{
     font-size: 45px;
     color: gray;
+
 }
 .name{
     font-size: 20px;
